@@ -1,0 +1,55 @@
+O DESAFIO: COMBATE à FOME MUNDIAL E À ESCASSEZ DE ALIMENTOS
+Proposto pela FIAP, em parceria com a Kraft Heinz, Microsoft e a ONG Caça-Fome para, por meio da tecnologia, promover ações para reduzir a
+fome global, escassez de alimentos e uma agricultura sustentável, fomos instruídos a desenvolver uma solução inovadora para lidar com, principalmente,
+o problema da fome e suas vertentes – insegurança alimentar e fome crônica, por exemplo –, utilizando os conhecimentos adquiridos durante o semestre. Como
+objetivo geral, tínhamos de fazer com que a solução fosse moderna, eficiente e entregue dentro dos prazos estabelecidos pelas disciplinas envolvidas.
+
+PROBLEMA E ENTENDIMENTO
+O desperdício de alimentos é um problema global de enormes proporções, que tem impactos significativos na questão da fome. Milhões de toneladas de alimentos
+são desperdiçadas diariamente em todo o mundo, enquanto, incoerentemente, muitas pessoas sofrem com a escassez de alimentos, essas pessoas lutam para atender
+às suas necessidades nutricionais básicas, mas raramente conseguem esse feito, consequentemente enfrentando uma condição de insegurança alimentar, onde não
+possuem acesso regular e confiável a alimentos suficientes e nutritivos para manter uma vida saudável. Essa situação é alarmante e exige uma abordagem efetiva
+para minimizar o desperdício e garantir o acesso adequado aos alimentos para todos.
+Ademais, é imprescindível explicitar o impacto negativo que o desperdício de alimentos causo no meio ambiente: o processo de produção, processamento, transporte
+e descarte de alimentos desperdiçados consome recursos naturais valiosos, como água, terra e energia, além de gerar a liberação de gases de efeito estufa
+durante a decomposição, contribuindo para as mudanças climáticas e o aquecimento global.
+Diante desse cenário, é crucial implementar soluções eficientes para combater o desperdício de alimentos, promover a sustentabilidade e garantir que os
+alimentos disponíveis sejam direcionados às pessoas necessitadas. A utilização da Engenharia de Software pode desempenhar um papel fundamental nesse processo,
+possibilitando, por exemplo, a criação de plataformas e sistemas que facilitem a conexão entre doadores de alimentos e organizações que combatem a fome. Essas
+soluções podem otimizar a distribuição e o aproveitamento dos alimentos excedentes, garantindo que eles cheguem às mãos daqueles que mais precisam, ao mesmo
+tempo em que reduzem o desperdício e os impactos ambientais.
+Ao abordarmos o desperdício de alimentos, a escassez de alimentos, a insegurança alimentar e o problema da fome em si, podemos trabalhar para construir uma
+sociedade mais justa, sustentável e equitativa, onde todos tenham acesso adequado a alimentos nutritivos e nenhuma comida seja desperdiçada.
+
+RESOLUÇÕES INICIAIS
+Em conjunto, o squad chegou em algumas possíveis soluções e, baseado nos aprendizados que recebemos nos últimos meses, e pesquisas sobre o tema, decidimos
+seguir com a citada no exemplo anterior: a criação de uma plataforma que facilite a conexão entre doadores de alimentos e organizações que combatem a fome.
+No período proposto, desenvolvemos um site que exibe esta funcionalidade.
+A principal finalidade é incentivar a doação de alimentos, reduzindo o desperdício, a fome e as emissões de gases de efeito estufa, além de facilitar esta
+atividade através de um site com layout interativo e de fácil entendimento.
+O sistema fará a combinação dos dados e sugerirá as melhores combinações possíveis, levando em consideração a proximidade geográfica, preferência dos doadores
+e urgência das necessidades das organizações.
+Além disso, o site fornecerá recursos como dicas de armazenamento adequado e receitas para reaproveitamento de ingredientes, incentivando a redução do
+desperdício de alimentos.
+
+EM EDGE COMPUTING & COMPUTER SYSTEMS
+Sabendo que o site fornecerá dicas de armazenamento adequado para incentivar a redução do desperdício de alimentos, decidimos criar um sistema de medição de
+temperatura que, com instruções dadas na plataforma e equipamentos simples, qualquer pessoa será capaz de montar em casa para evitar que certos tipos de
+alimentos estraguem devido ao estoque com temperaturas erradas.
+Futuramente, pretendemos seguir com os tutorias publicados na plataforma, assim, existirão diversos tipos de sensores que o usuário poderá montar em sua
+própria casa para um melhor armazenamento de sua comida.
+
+INSTRUÇÕES DE USO
+Após acessar o link de simulação do TinkerCad (https://www.tinkercad.com/things/0JYwWcYQ8Lt-copy-of-global-solution-edge-computing-and-computer-systems/editel?sharecode=TacnkDa1hwwraC8OtQgW3pI__rTI-3LI3ScEnUz2Gkg),
+iniciar a montagem igual a que foi realizada na plataforma online. Instalar a IDE Arduino para passar o código-fonte para a placa e, depois que todas as
+conexões estiverem feitas, iniciar o programa.
+
+REQUISITOS
+Comprar os seguintes materiais para realizar a montagem do projeto:
+1. Arduino Uno R3
+2. piezzo (buzzer [1])
+3. LED (3 [azul, verde e vermelho])
+4. resistor (3 de 220 ohms e 1 de 1kohms)
+5. TMP3691 (sensor de temperatura [1])
+6. jumpers
+7. Protoboard (1)
